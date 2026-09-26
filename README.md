@@ -14,10 +14,14 @@ Authorized lab reports covering reconnaissance, service enumeration, web exploit
 | [Samba trans2open](reports/samba-trans2open.md) | Legacy Samba compromise in a lab |
 | [Kevgir Assessment](reports/kevgir-assessment.md) | Tomcat, file upload, and Redis exposure |
 | [Passive Reconnaissance](reports/passive-reconnaissance.md) | Non-intrusive OSINT methodology |
+| [HTB Planning](reports/htb-planning.md) | Virtual-host discovery, Grafana exploitation, and credential exposure |
+| [HTB TombWatcher](reports/htb-tombwatcher.md) | Active Directory discovery and authentication troubleshooting |
+| [HTB CodePartTwo](reports/htb-codeparttwo.md) | js2py sandbox escape, SQLite credential recovery, and Linux enumeration |
+| [HTB Expressway](reports/htb-expressway.md) | IKE enumeration, PSK exposure, and sudo privilege escalation |
+| [HTB Conceal](reports/htb-conceal.md) | IPsec/SNMP discovery, FTP upload exposure, and Windows attack surface |
 
 ## Scope and ethics
 
 All activity described here was performed in intentionally vulnerable virtual machines or authorized coursework. Do not reproduce these techniques against systems you do not own or lack explicit permission to test.
 
 The reports emphasize evidence, risk, and remediation. Credentials, payload-generation details, and anti-forensic instructions are intentionally omitted from public documentation.
-
